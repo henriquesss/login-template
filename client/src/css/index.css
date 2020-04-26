@@ -1,0 +1,28 @@
+html,body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+  background-color: #f3f8fb;
+  color: #362ad5;
+  height: 100%;
+}
+
+#root {
+  height: 100%;
+}
+
+thead tr th {
+  font-size: 12px;
+}
+
+tbody tr th {
+  font-size: 12px;
+}
+
+tbody tr td {
+  font-size: 12px;
+}
+
+.block-ui-message {
+  color: #362ad5;
+  font-weight: bold;
+}
