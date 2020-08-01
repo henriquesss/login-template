@@ -10,8 +10,7 @@
     "install:server": "cd server && yarn",
     "install:client": "cd client && yarn"
   },
-  "repository": "git@gitlab.com:iconic-dev/authenticathor/platform.git",
-  "author": "Iconic",
+  "author": "Lucas Henriques",
   "license": "MIT",
   "dependencies": {
     "concurrently": "^5.0.2",
